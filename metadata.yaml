@@ -1,10 +1,16 @@
 _repo: Forty-Years-at-El-Paso-1858-1898_48691
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48691-h/images/cover.jpg
 creator:
   author:
     agent_name: Mills, William Wallace
     gutenberg_agent_id: '44925'
     url: http://www.gutenberg.org/2009/agents/44925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48691#Forty-Years-at-El-Paso-1858-1898
 gutenberg_issued: '2015-04-12'
 gutenberg_type: Text
 identifiers:
